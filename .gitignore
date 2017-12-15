@@ -1,0 +1,6 @@
+# Ignore compilation results
+/dist
+/.cache
+
+
+
